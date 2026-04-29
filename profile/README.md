@@ -4,6 +4,10 @@ Welcome to the HawkLabs Repository!
 
 This repository is a collection of utilities, integrations, and supporting resources designed to help developers and teams get the most out of HawkSearch. Whether you're building a custom integration, testing APIs, or accelerating your implementation workflow, the tools here are intended to simplify and streamline your experience. 
 
+## About HawkSearch
+
+HawkSearch is a cloud-based search and merchandising platform designed primarily for eCommerce and content-driven websites. It enhances on-site search by delivering fast, relevant, and customizable search results, along with tools for filtering, faceting, and personalization. It also provides features like ranking rules, recommendations, analytics, and AI-driven optimizations, helping businesses improve product discovery and increase conversions without requiring heavy custom development. You can learn more about HawkSearch by visiting our [website.](https://www.hawksearch.com/)
+
 ## What You'll Find Here
 
 This repository may include:
