@@ -1,3 +1,5 @@
+<img width="1000" height="250" alt="HawkSearchBanner" src="https://github.com/user-attachments/assets/43f3db89-bca1-4423-b32e-af252709dfe4" />
+
 # HawkSearch Labs 
 
 Welcome to the HawkSearch Labs repository!
