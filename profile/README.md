@@ -1,6 +1,6 @@
-# HawkLabs 
+# HawkSearch Labs 
 
-Welcome to the HawkLabs Repository!
+Welcome to the HawkSearch Labs repository!
 
 This repository is a collection of utilities, integrations, and supporting resources designed to help developers and teams get the most out of HawkSearch. Whether you're building a custom integration, testing APIs, or accelerating your implementation workflow, the tools here are intended to simplify and streamline your experience. 
 
