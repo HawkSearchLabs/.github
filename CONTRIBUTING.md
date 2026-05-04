@@ -21,7 +21,7 @@ We welcome contributions that help others use HawkSearch effectively:
 
 ## Repository Structure
 
-Each project or experiment lives in its **own dedicated repository** within the HawkSearch Labs organization. When submitting or proposing a new repository, please follow this structure:
+Each project or experiment lives in its **own dedicated repository** within the HawkSearch Labs organization. When submitting or proposing a new repository, please follow a similar structure to this:
 
 ```
 your-project-name/
