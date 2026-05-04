@@ -42,7 +42,7 @@ This repository is intended for:
 * Review each tool before use to ensure it fits your specific use case
 * Test in a non-production environment whenever possible
 
-## Contributing
+## [Contributing](CONTRIBUTING.md)
 
 We welcome contributions! If you have a useful tool, improvement, or fix:
 
