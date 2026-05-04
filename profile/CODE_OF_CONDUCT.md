@@ -106,4 +106,4 @@ This community exists to help developers succeed with HawkSearch.
 
 Professionalism, mutual respect, and good-faith collaboration are expected from everyone.
 
-Thank you for helping make the HawkSearch developer community a great place to build. 🚀
+Thank you for helping make the HawkSearch developer community a great place to build. 
