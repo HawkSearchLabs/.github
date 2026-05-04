@@ -42,7 +42,7 @@ This repository is intended for:
 * Review each tool before use to ensure it fits your specific use case
 * Test in a non-production environment whenever possible
 
-## [Contributing](CONTRIBUTING.md)
+## [Contributing](https://github.com/HawkSearchLabs/.github/blob/4e74d8042e66d6753759d3eae1933ef7468b7df0/CONTRIBUTING.md)
 
 We welcome contributions! If you have a useful tool, improvement, or fix:
 
@@ -51,6 +51,10 @@ We welcome contributions! If you have a useful tool, improvement, or fix:
 3. Submit a pull request with a clear description of your changes
 
 Please ensure your contributions follow internal standards and do not expose any sensitive data.
+
+## [Code of Conduct](https://github.com/HawkSearchLabs/.github/blob/4e74d8042e66d6753759d3eae1933ef7468b7df0/CODE_OF_CONDUCT.md)
+
+Make sure all contributions follow our Code of Conduct.
 
 ## Support
 
