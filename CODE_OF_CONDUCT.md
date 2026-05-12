@@ -78,7 +78,7 @@ Enforcement decisions are made at the discretion of the HawkSearch maintainers.
 
 If you experience or witness behavior that violates this Code of Conduct, please report it by contacting:
 
-**Email:** developer-relations@hawksearch.com
+**Email:** ataglich@bridgeline.com
 
 All reports will be reviewed promptly and handled confidentially.
 
