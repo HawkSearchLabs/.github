@@ -50,6 +50,8 @@ We welcome contributions! If you have a useful tool, improvement, or fix:
 2. Create a feature branch
 3. Submit a pull request with a clear description of your changes
 
+When creating your own repository, please make sure to use our template repository.
+
 Please ensure your contributions follow internal standards and do not expose any sensitive data.
 
 ## [Code of Conduct](https://github.com/HawkSearchLabs/.github/blob/4e74d8042e66d6753759d3eae1933ef7468b7df0/CODE_OF_CONDUCT.md)
