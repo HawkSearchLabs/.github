@@ -1,6 +1,6 @@
 ﻿# Pull Request
 
-Thank you for contributing to the HawkSearch developer community! 🚀  
+Thank you for contributing to the HawkSearch developer community! 
 Please complete the sections below to help us review your contribution efficiently.
 
 ---
@@ -90,4 +90,4 @@ Anything else reviewers should know? Tradeoffs, limitations, or follow-up ideas?
 
 ---
 
-Thank you for helping improve the HawkSearch developer ecosystem! 🙌
+Thank you for helping improve the HawkSearch developer ecosystem! 
